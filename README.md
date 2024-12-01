@@ -9,7 +9,7 @@
 
 ## 📖 About <a name="about"></a>
 
-This repository contains solutions to the **"GfG 160 - 160 Days of Problem Solving"** challenge. 🏆 The goal is to solve one problem daily for 160 days and provide solutions in **C++** and **Python**. 🔥  
+This repository contains solutions to the [**GfG 160 - 160 Days of Problem Solving**](https://www.geeksforgeeks.org/batch/gfg-160-problems) challenge. 🏆 The goal is to solve one problem daily for 160 days and provide solutions in **C++** and **Python**. 🔥  
 
 The repository is updated daily with new solutions. Contributors are welcome to:
 - 🌍 Add solutions in other programming languages.
@@ -38,8 +38,8 @@ Make sure you have the following tools installed:
 2. **Clone the Repository** 📂  
    Clone the forked repository to your local machine:
    ```bash
-   git clone https://github.com/<your-username>/GfG-160.git
-   cd GfG-160
+   git clone https://github.com/Mudassir-A/gfg-160-days.git
+   cd gfg-160-days
    ```
 
 3. **Install Dependencies** ⚙️  
